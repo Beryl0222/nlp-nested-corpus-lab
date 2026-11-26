@@ -1,0 +1,17 @@
+[
+  {
+    "id": "split-1",
+    "op": "propose_split",
+    "opinion_id": "manual-00-r1-a",
+    "entity_id": "part",
+    "proposed_ids": [
+      "pump",
+      "bearing"
+    ]
+  },
+  {
+    "id": "refine-1",
+    "op": "request_ontology",
+    "ontology": "v2"
+  }
+]

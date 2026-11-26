@@ -1,0 +1,2978 @@
+[
+  {
+    "id": "manual-00-r1-a",
+    "document_id": "manual-00-r1",
+    "annotator": "林",
+    "ontology": "v1",
+    "state": "proposed",
+    "entities": [
+      {
+        "id": "org",
+        "label": "organization",
+        "segments": [
+          [
+            0,
+            11
+          ]
+        ],
+        "surface": "东川研究院电池试验中心"
+      },
+      {
+        "id": "dept",
+        "label": "department",
+        "segments": [
+          [
+            5,
+            11
+          ]
+        ],
+        "surface": "电池试验中心"
+      },
+      {
+        "id": "part",
+        "label": "component",
+        "segments": [
+          [
+            15,
+            20
+          ]
+        ],
+        "surface": "低压泵轴承"
+      },
+      {
+        "id": "bearing",
+        "label": "component",
+        "segments": [
+          [
+            18,
+            20
+          ]
+        ],
+        "surface": "轴承"
+      },
+      {
+        "id": "stand",
+        "label": "component",
+        "segments": [
+          [
+            5,
+            7
+          ],
+          [
+            27,
+            30
+          ]
+        ],
+        "surface": "电池…测试台"
+      }
+    ],
+    "relations": [
+      {
+        "source": "dept",
+        "target": "part",
+        "label": "examines"
+      }
+    ]
+  },
+  {
+    "id": "manual-00-r1-b",
+    "document_id": "manual-00-r1",
+    "annotator": "陈",
+    "ontology": "v1",
+    "state": "proposed",
+    "entities": [
+      {
+        "id": "org",
+        "label": "organization",
+        "segments": [
+          [
+            0,
+            11
+          ]
+        ],
+        "surface": "东川研究院电池试验中心"
+      },
+      {
+        "id": "dept",
+        "label": "department",
+        "segments": [
+          [
+            5,
+            11
+          ]
+        ],
+        "surface": "电池试验中心"
+      },
+      {
+        "id": "part",
+        "label": "component",
+        "segments": [
+          [
+            15,
+            20
+          ]
+        ],
+        "surface": "低压泵轴承"
+      },
+      {
+        "id": "stand",
+        "label": "component",
+        "segments": [
+          [
+            5,
+            7
+          ],
+          [
+            27,
+            30
+          ]
+        ],
+        "surface": "电池…测试台"
+      }
+    ],
+    "relations": [
+      {
+        "source": "org",
+        "target": "part",
+        "label": "examines"
+      }
+    ]
+  },
+  {
+    "id": "manual-00-r2-a",
+    "document_id": "manual-00-r2",
+    "annotator": "林",
+    "ontology": "v1",
+    "state": "proposed",
+    "entities": [
+      {
+        "id": "org",
+        "label": "organization",
+        "segments": [
+          [
+            0,
+            11
+          ]
+        ],
+        "surface": "东川研究院电池试验中心"
+      },
+      {
+        "id": "dept",
+        "label": "department",
+        "segments": [
+          [
+            5,
+            11
+          ]
+        ],
+        "surface": "电池试验中心"
+      },
+      {
+        "id": "part",
+        "label": "component",
+        "segments": [
+          [
+            15,
+            20
+          ]
+        ],
+        "surface": "低压泵轴承"
+      },
+      {
+        "id": "bearing",
+        "label": "component",
+        "segments": [
+          [
+            18,
+            20
+          ]
+        ],
+        "surface": "轴承"
+      }
+    ],
+    "relations": [
+      {
+        "source": "dept",
+        "target": "part",
+        "label": "examines"
+      }
+    ]
+  },
+  {
+    "id": "manual-00-r2-b",
+    "document_id": "manual-00-r2",
+    "annotator": "陈",
+    "ontology": "v1",
+    "state": "proposed",
+    "entities": [
+      {
+        "id": "org",
+        "label": "organization",
+        "segments": [
+          [
+            0,
+            11
+          ]
+        ],
+        "surface": "东川研究院电池试验中心"
+      },
+      {
+        "id": "dept",
+        "label": "department",
+        "segments": [
+          [
+            5,
+            11
+          ]
+        ],
+        "surface": "电池试验中心"
+      },
+      {
+        "id": "part",
+        "label": "component",
+        "segments": [
+          [
+            15,
+            20
+          ]
+        ],
+        "surface": "低压泵轴承"
+      }
+    ],
+    "relations": [
+      {
+        "source": "org",
+        "target": "part",
+        "label": "examines"
+      }
+    ]
+  },
+  {
+    "id": "manual-01-r1-a",
+    "document_id": "manual-01-r1",
+    "annotator": "林",
+    "ontology": "v1",
+    "state": "proposed",
+    "entities": [
+      {
+        "id": "org",
+        "label": "organization",
+        "segments": [
+          [
+            0,
+            11
+          ]
+        ],
+        "surface": "西河研究院电池试验中心"
+      },
+      {
+        "id": "dept",
+        "label": "department",
+        "segments": [
+          [
+            5,
+            11
+          ]
+        ],
+        "surface": "电池试验中心"
+      },
+      {
+        "id": "part",
+        "label": "component",
+        "segments": [
+          [
+            15,
+            20
+          ]
+        ],
+        "surface": "低压泵轴承"
+      },
+      {
+        "id": "bearing",
+        "label": "component",
+        "segments": [
+          [
+            18,
+            20
+          ]
+        ],
+        "surface": "轴承"
+      },
+      {
+        "id": "stand",
+        "label": "component",
+        "segments": [
+          [
+            5,
+            7
+          ],
+          [
+            27,
+            30
+          ]
+        ],
+        "surface": "电池…测试台"
+      }
+    ],
+    "relations": [
+      {
+        "source": "dept",
+        "target": "part",
+        "label": "examines"
+      }
+    ]
+  },
+  {
+    "id": "manual-01-r1-b",
+    "document_id": "manual-01-r1",
+    "annotator": "陈",
+    "ontology": "v1",
+    "state": "proposed",
+    "entities": [
+      {
+        "id": "org",
+        "label": "organization",
+        "segments": [
+          [
+            0,
+            11
+          ]
+        ],
+        "surface": "西河研究院电池试验中心"
+      },
+      {
+        "id": "dept",
+        "label": "department",
+        "segments": [
+          [
+            5,
+            11
+          ]
+        ],
+        "surface": "电池试验中心"
+      },
+      {
+        "id": "part",
+        "label": "component",
+        "segments": [
+          [
+            15,
+            20
+          ]
+        ],
+        "surface": "低压泵轴承"
+      },
+      {
+        "id": "stand",
+        "label": "component",
+        "segments": [
+          [
+            5,
+            7
+          ],
+          [
+            27,
+            30
+          ]
+        ],
+        "surface": "电池…测试台"
+      }
+    ],
+    "relations": [
+      {
+        "source": "org",
+        "target": "part",
+        "label": "examines"
+      }
+    ]
+  },
+  {
+    "id": "manual-01-r2-a",
+    "document_id": "manual-01-r2",
+    "annotator": "林",
+    "ontology": "v1",
+    "state": "proposed",
+    "entities": [
+      {
+        "id": "org",
+        "label": "organization",
+        "segments": [
+          [
+            0,
+            11
+          ]
+        ],
+        "surface": "西河研究院电池试验中心"
+      },
+      {
+        "id": "dept",
+        "label": "department",
+        "segments": [
+          [
+            5,
+            11
+          ]
+        ],
+        "surface": "电池试验中心"
+      },
+      {
+        "id": "part",
+        "label": "component",
+        "segments": [
+          [
+            15,
+            20
+          ]
+        ],
+        "surface": "低压泵轴承"
+      },
+      {
+        "id": "bearing",
+        "label": "component",
+        "segments": [
+          [
+            18,
+            20
+          ]
+        ],
+        "surface": "轴承"
+      }
+    ],
+    "relations": [
+      {
+        "source": "dept",
+        "target": "part",
+        "label": "examines"
+      }
+    ]
+  },
+  {
+    "id": "manual-01-r2-b",
+    "document_id": "manual-01-r2",
+    "annotator": "陈",
+    "ontology": "v1",
+    "state": "proposed",
+    "entities": [
+      {
+        "id": "org",
+        "label": "organization",
+        "segments": [
+          [
+            0,
+            11
+          ]
+        ],
+        "surface": "西河研究院电池试验中心"
+      },
+      {
+        "id": "dept",
+        "label": "department",
+        "segments": [
+          [
+            5,
+            11
+          ]
+        ],
+        "surface": "电池试验中心"
+      },
+      {
+        "id": "part",
+        "label": "component",
+        "segments": [
+          [
+            15,
+            20
+          ]
+        ],
+        "surface": "低压泵轴承"
+      }
+    ],
+    "relations": [
+      {
+        "source": "org",
+        "target": "part",
+        "label": "examines"
+      }
+    ]
+  },
+  {
+    "id": "manual-02-r1-a",
+    "document_id": "manual-02-r1",
+    "annotator": "林",
+    "ontology": "v1",
+    "state": "proposed",
+    "entities": [
+      {
+        "id": "org",
+        "label": "organization",
+        "segments": [
+          [
+            0,
+            11
+          ]
+        ],
+        "surface": "北林研究院电池试验中心"
+      },
+      {
+        "id": "dept",
+        "label": "department",
+        "segments": [
+          [
+            5,
+            11
+          ]
+        ],
+        "surface": "电池试验中心"
+      },
+      {
+        "id": "part",
+        "label": "component",
+        "segments": [
+          [
+            15,
+            20
+          ]
+        ],
+        "surface": "低压泵轴承"
+      },
+      {
+        "id": "bearing",
+        "label": "component",
+        "segments": [
+          [
+            18,
+            20
+          ]
+        ],
+        "surface": "轴承"
+      },
+      {
+        "id": "stand",
+        "label": "component",
+        "segments": [
+          [
+            5,
+            7
+          ],
+          [
+            27,
+            30
+          ]
+        ],
+        "surface": "电池…测试台"
+      }
+    ],
+    "relations": [
+      {
+        "source": "dept",
+        "target": "part",
+        "label": "examines"
+      }
+    ]
+  },
+  {
+    "id": "manual-02-r1-b",
+    "document_id": "manual-02-r1",
+    "annotator": "陈",
+    "ontology": "v1",
+    "state": "proposed",
+    "entities": [
+      {
+        "id": "org",
+        "label": "organization",
+        "segments": [
+          [
+            0,
+            11
+          ]
+        ],
+        "surface": "北林研究院电池试验中心"
+      },
+      {
+        "id": "dept",
+        "label": "department",
+        "segments": [
+          [
+            5,
+            11
+          ]
+        ],
+        "surface": "电池试验中心"
+      },
+      {
+        "id": "part",
+        "label": "component",
+        "segments": [
+          [
+            15,
+            20
+          ]
+        ],
+        "surface": "低压泵轴承"
+      },
+      {
+        "id": "stand",
+        "label": "component",
+        "segments": [
+          [
+            5,
+            7
+          ],
+          [
+            27,
+            30
+          ]
+        ],
+        "surface": "电池…测试台"
+      }
+    ],
+    "relations": [
+      {
+        "source": "org",
+        "target": "part",
+        "label": "examines"
+      }
+    ]
+  },
+  {
+    "id": "manual-02-r2-a",
+    "document_id": "manual-02-r2",
+    "annotator": "林",
+    "ontology": "v1",
+    "state": "proposed",
+    "entities": [
+      {
+        "id": "org",
+        "label": "organization",
+        "segments": [
+          [
+            0,
+            11
+          ]
+        ],
+        "surface": "北林研究院电池试验中心"
+      },
+      {
+        "id": "dept",
+        "label": "department",
+        "segments": [
+          [
+            5,
+            11
+          ]
+        ],
+        "surface": "电池试验中心"
+      },
+      {
+        "id": "part",
+        "label": "component",
+        "segments": [
+          [
+            15,
+            20
+          ]
+        ],
+        "surface": "低压泵轴承"
+      },
+      {
+        "id": "bearing",
+        "label": "component",
+        "segments": [
+          [
+            18,
+            20
+          ]
+        ],
+        "surface": "轴承"
+      }
+    ],
+    "relations": [
+      {
+        "source": "dept",
+        "target": "part",
+        "label": "examines"
+      }
+    ]
+  },
+  {
+    "id": "manual-02-r2-b",
+    "document_id": "manual-02-r2",
+    "annotator": "陈",
+    "ontology": "v1",
+    "state": "proposed",
+    "entities": [
+      {
+        "id": "org",
+        "label": "organization",
+        "segments": [
+          [
+            0,
+            11
+          ]
+        ],
+        "surface": "北林研究院电池试验中心"
+      },
+      {
+        "id": "dept",
+        "label": "department",
+        "segments": [
+          [
+            5,
+            11
+          ]
+        ],
+        "surface": "电池试验中心"
+      },
+      {
+        "id": "part",
+        "label": "component",
+        "segments": [
+          [
+            15,
+            20
+          ]
+        ],
+        "surface": "低压泵轴承"
+      }
+    ],
+    "relations": [
+      {
+        "source": "org",
+        "target": "part",
+        "label": "examines"
+      }
+    ]
+  },
+  {
+    "id": "manual-03-r1-a",
+    "document_id": "manual-03-r1",
+    "annotator": "林",
+    "ontology": "v1",
+    "state": "proposed",
+    "entities": [
+      {
+        "id": "org",
+        "label": "organization",
+        "segments": [
+          [
+            0,
+            11
+          ]
+        ],
+        "surface": "南港研究院电池试验中心"
+      },
+      {
+        "id": "dept",
+        "label": "department",
+        "segments": [
+          [
+            5,
+            11
+          ]
+        ],
+        "surface": "电池试验中心"
+      },
+      {
+        "id": "part",
+        "label": "component",
+        "segments": [
+          [
+            15,
+            20
+          ]
+        ],
+        "surface": "低压泵轴承"
+      },
+      {
+        "id": "bearing",
+        "label": "component",
+        "segments": [
+          [
+            18,
+            20
+          ]
+        ],
+        "surface": "轴承"
+      },
+      {
+        "id": "stand",
+        "label": "component",
+        "segments": [
+          [
+            5,
+            7
+          ],
+          [
+            27,
+            30
+          ]
+        ],
+        "surface": "电池…测试台"
+      }
+    ],
+    "relations": [
+      {
+        "source": "dept",
+        "target": "part",
+        "label": "examines"
+      }
+    ]
+  },
+  {
+    "id": "manual-03-r1-b",
+    "document_id": "manual-03-r1",
+    "annotator": "陈",
+    "ontology": "v1",
+    "state": "proposed",
+    "entities": [
+      {
+        "id": "org",
+        "label": "organization",
+        "segments": [
+          [
+            0,
+            11
+          ]
+        ],
+        "surface": "南港研究院电池试验中心"
+      },
+      {
+        "id": "dept",
+        "label": "department",
+        "segments": [
+          [
+            5,
+            11
+          ]
+        ],
+        "surface": "电池试验中心"
+      },
+      {
+        "id": "part",
+        "label": "component",
+        "segments": [
+          [
+            15,
+            20
+          ]
+        ],
+        "surface": "低压泵轴承"
+      },
+      {
+        "id": "stand",
+        "label": "component",
+        "segments": [
+          [
+            5,
+            7
+          ],
+          [
+            27,
+            30
+          ]
+        ],
+        "surface": "电池…测试台"
+      }
+    ],
+    "relations": [
+      {
+        "source": "org",
+        "target": "part",
+        "label": "examines"
+      }
+    ]
+  },
+  {
+    "id": "manual-03-r2-a",
+    "document_id": "manual-03-r2",
+    "annotator": "林",
+    "ontology": "v1",
+    "state": "proposed",
+    "entities": [
+      {
+        "id": "org",
+        "label": "organization",
+        "segments": [
+          [
+            0,
+            11
+          ]
+        ],
+        "surface": "南港研究院电池试验中心"
+      },
+      {
+        "id": "dept",
+        "label": "department",
+        "segments": [
+          [
+            5,
+            11
+          ]
+        ],
+        "surface": "电池试验中心"
+      },
+      {
+        "id": "part",
+        "label": "component",
+        "segments": [
+          [
+            15,
+            20
+          ]
+        ],
+        "surface": "低压泵轴承"
+      },
+      {
+        "id": "bearing",
+        "label": "component",
+        "segments": [
+          [
+            18,
+            20
+          ]
+        ],
+        "surface": "轴承"
+      }
+    ],
+    "relations": [
+      {
+        "source": "dept",
+        "target": "part",
+        "label": "examines"
+      }
+    ]
+  },
+  {
+    "id": "manual-03-r2-b",
+    "document_id": "manual-03-r2",
+    "annotator": "陈",
+    "ontology": "v1",
+    "state": "proposed",
+    "entities": [
+      {
+        "id": "org",
+        "label": "organization",
+        "segments": [
+          [
+            0,
+            11
+          ]
+        ],
+        "surface": "南港研究院电池试验中心"
+      },
+      {
+        "id": "dept",
+        "label": "department",
+        "segments": [
+          [
+            5,
+            11
+          ]
+        ],
+        "surface": "电池试验中心"
+      },
+      {
+        "id": "part",
+        "label": "component",
+        "segments": [
+          [
+            15,
+            20
+          ]
+        ],
+        "surface": "低压泵轴承"
+      }
+    ],
+    "relations": [
+      {
+        "source": "org",
+        "target": "part",
+        "label": "examines"
+      }
+    ]
+  },
+  {
+    "id": "manual-04-r1-a",
+    "document_id": "manual-04-r1",
+    "annotator": "林",
+    "ontology": "v1",
+    "state": "proposed",
+    "entities": [
+      {
+        "id": "org",
+        "label": "organization",
+        "segments": [
+          [
+            0,
+            11
+          ]
+        ],
+        "surface": "青岚研究院电池试验中心"
+      },
+      {
+        "id": "dept",
+        "label": "department",
+        "segments": [
+          [
+            5,
+            11
+          ]
+        ],
+        "surface": "电池试验中心"
+      },
+      {
+        "id": "part",
+        "label": "component",
+        "segments": [
+          [
+            15,
+            20
+          ]
+        ],
+        "surface": "低压泵轴承"
+      },
+      {
+        "id": "bearing",
+        "label": "component",
+        "segments": [
+          [
+            18,
+            20
+          ]
+        ],
+        "surface": "轴承"
+      },
+      {
+        "id": "stand",
+        "label": "component",
+        "segments": [
+          [
+            5,
+            7
+          ],
+          [
+            27,
+            30
+          ]
+        ],
+        "surface": "电池…测试台"
+      }
+    ],
+    "relations": [
+      {
+        "source": "dept",
+        "target": "part",
+        "label": "examines"
+      }
+    ]
+  },
+  {
+    "id": "manual-04-r1-b",
+    "document_id": "manual-04-r1",
+    "annotator": "陈",
+    "ontology": "v1",
+    "state": "proposed",
+    "entities": [
+      {
+        "id": "org",
+        "label": "organization",
+        "segments": [
+          [
+            0,
+            11
+          ]
+        ],
+        "surface": "青岚研究院电池试验中心"
+      },
+      {
+        "id": "dept",
+        "label": "department",
+        "segments": [
+          [
+            5,
+            11
+          ]
+        ],
+        "surface": "电池试验中心"
+      },
+      {
+        "id": "part",
+        "label": "component",
+        "segments": [
+          [
+            15,
+            20
+          ]
+        ],
+        "surface": "低压泵轴承"
+      },
+      {
+        "id": "stand",
+        "label": "component",
+        "segments": [
+          [
+            5,
+            7
+          ],
+          [
+            27,
+            30
+          ]
+        ],
+        "surface": "电池…测试台"
+      }
+    ],
+    "relations": [
+      {
+        "source": "org",
+        "target": "part",
+        "label": "examines"
+      }
+    ]
+  },
+  {
+    "id": "manual-04-r2-a",
+    "document_id": "manual-04-r2",
+    "annotator": "林",
+    "ontology": "v1",
+    "state": "proposed",
+    "entities": [
+      {
+        "id": "org",
+        "label": "organization",
+        "segments": [
+          [
+            0,
+            11
+          ]
+        ],
+        "surface": "青岚研究院电池试验中心"
+      },
+      {
+        "id": "dept",
+        "label": "department",
+        "segments": [
+          [
+            5,
+            11
+          ]
+        ],
+        "surface": "电池试验中心"
+      },
+      {
+        "id": "part",
+        "label": "component",
+        "segments": [
+          [
+            15,
+            20
+          ]
+        ],
+        "surface": "低压泵轴承"
+      },
+      {
+        "id": "bearing",
+        "label": "component",
+        "segments": [
+          [
+            18,
+            20
+          ]
+        ],
+        "surface": "轴承"
+      }
+    ],
+    "relations": [
+      {
+        "source": "dept",
+        "target": "part",
+        "label": "examines"
+      }
+    ]
+  },
+  {
+    "id": "manual-04-r2-b",
+    "document_id": "manual-04-r2",
+    "annotator": "陈",
+    "ontology": "v1",
+    "state": "proposed",
+    "entities": [
+      {
+        "id": "org",
+        "label": "organization",
+        "segments": [
+          [
+            0,
+            11
+          ]
+        ],
+        "surface": "青岚研究院电池试验中心"
+      },
+      {
+        "id": "dept",
+        "label": "department",
+        "segments": [
+          [
+            5,
+            11
+          ]
+        ],
+        "surface": "电池试验中心"
+      },
+      {
+        "id": "part",
+        "label": "component",
+        "segments": [
+          [
+            15,
+            20
+          ]
+        ],
+        "surface": "低压泵轴承"
+      }
+    ],
+    "relations": [
+      {
+        "source": "org",
+        "target": "part",
+        "label": "examines"
+      }
+    ]
+  },
+  {
+    "id": "manual-05-r1-a",
+    "document_id": "manual-05-r1",
+    "annotator": "林",
+    "ontology": "v1",
+    "state": "proposed",
+    "entities": [
+      {
+        "id": "org",
+        "label": "organization",
+        "segments": [
+          [
+            0,
+            11
+          ]
+        ],
+        "surface": "云州研究院电池试验中心"
+      },
+      {
+        "id": "dept",
+        "label": "department",
+        "segments": [
+          [
+            5,
+            11
+          ]
+        ],
+        "surface": "电池试验中心"
+      },
+      {
+        "id": "part",
+        "label": "component",
+        "segments": [
+          [
+            15,
+            20
+          ]
+        ],
+        "surface": "低压泵轴承"
+      },
+      {
+        "id": "bearing",
+        "label": "component",
+        "segments": [
+          [
+            18,
+            20
+          ]
+        ],
+        "surface": "轴承"
+      },
+      {
+        "id": "stand",
+        "label": "component",
+        "segments": [
+          [
+            5,
+            7
+          ],
+          [
+            27,
+            30
+          ]
+        ],
+        "surface": "电池…测试台"
+      }
+    ],
+    "relations": [
+      {
+        "source": "dept",
+        "target": "part",
+        "label": "examines"
+      }
+    ]
+  },
+  {
+    "id": "manual-05-r1-b",
+    "document_id": "manual-05-r1",
+    "annotator": "陈",
+    "ontology": "v1",
+    "state": "proposed",
+    "entities": [
+      {
+        "id": "org",
+        "label": "organization",
+        "segments": [
+          [
+            0,
+            11
+          ]
+        ],
+        "surface": "云州研究院电池试验中心"
+      },
+      {
+        "id": "dept",
+        "label": "department",
+        "segments": [
+          [
+            5,
+            11
+          ]
+        ],
+        "surface": "电池试验中心"
+      },
+      {
+        "id": "part",
+        "label": "component",
+        "segments": [
+          [
+            15,
+            20
+          ]
+        ],
+        "surface": "低压泵轴承"
+      },
+      {
+        "id": "stand",
+        "label": "component",
+        "segments": [
+          [
+            5,
+            7
+          ],
+          [
+            27,
+            30
+          ]
+        ],
+        "surface": "电池…测试台"
+      }
+    ],
+    "relations": [
+      {
+        "source": "org",
+        "target": "part",
+        "label": "examines"
+      }
+    ]
+  },
+  {
+    "id": "manual-05-r2-a",
+    "document_id": "manual-05-r2",
+    "annotator": "林",
+    "ontology": "v1",
+    "state": "proposed",
+    "entities": [
+      {
+        "id": "org",
+        "label": "organization",
+        "segments": [
+          [
+            0,
+            11
+          ]
+        ],
+        "surface": "云州研究院电池试验中心"
+      },
+      {
+        "id": "dept",
+        "label": "department",
+        "segments": [
+          [
+            5,
+            11
+          ]
+        ],
+        "surface": "电池试验中心"
+      },
+      {
+        "id": "part",
+        "label": "component",
+        "segments": [
+          [
+            15,
+            20
+          ]
+        ],
+        "surface": "低压泵轴承"
+      },
+      {
+        "id": "bearing",
+        "label": "component",
+        "segments": [
+          [
+            18,
+            20
+          ]
+        ],
+        "surface": "轴承"
+      }
+    ],
+    "relations": [
+      {
+        "source": "dept",
+        "target": "part",
+        "label": "examines"
+      }
+    ]
+  },
+  {
+    "id": "manual-05-r2-b",
+    "document_id": "manual-05-r2",
+    "annotator": "陈",
+    "ontology": "v1",
+    "state": "proposed",
+    "entities": [
+      {
+        "id": "org",
+        "label": "organization",
+        "segments": [
+          [
+            0,
+            11
+          ]
+        ],
+        "surface": "云州研究院电池试验中心"
+      },
+      {
+        "id": "dept",
+        "label": "department",
+        "segments": [
+          [
+            5,
+            11
+          ]
+        ],
+        "surface": "电池试验中心"
+      },
+      {
+        "id": "part",
+        "label": "component",
+        "segments": [
+          [
+            15,
+            20
+          ]
+        ],
+        "surface": "低压泵轴承"
+      }
+    ],
+    "relations": [
+      {
+        "source": "org",
+        "target": "part",
+        "label": "examines"
+      }
+    ]
+  },
+  {
+    "id": "manual-06-r1-a",
+    "document_id": "manual-06-r1",
+    "annotator": "林",
+    "ontology": "v1",
+    "state": "proposed",
+    "entities": [
+      {
+        "id": "org",
+        "label": "organization",
+        "segments": [
+          [
+            0,
+            11
+          ]
+        ],
+        "surface": "星湖研究院电池试验中心"
+      },
+      {
+        "id": "dept",
+        "label": "department",
+        "segments": [
+          [
+            5,
+            11
+          ]
+        ],
+        "surface": "电池试验中心"
+      },
+      {
+        "id": "part",
+        "label": "component",
+        "segments": [
+          [
+            15,
+            20
+          ]
+        ],
+        "surface": "低压泵轴承"
+      },
+      {
+        "id": "bearing",
+        "label": "component",
+        "segments": [
+          [
+            18,
+            20
+          ]
+        ],
+        "surface": "轴承"
+      },
+      {
+        "id": "stand",
+        "label": "component",
+        "segments": [
+          [
+            5,
+            7
+          ],
+          [
+            27,
+            30
+          ]
+        ],
+        "surface": "电池…测试台"
+      }
+    ],
+    "relations": [
+      {
+        "source": "dept",
+        "target": "part",
+        "label": "examines"
+      }
+    ]
+  },
+  {
+    "id": "manual-06-r1-b",
+    "document_id": "manual-06-r1",
+    "annotator": "陈",
+    "ontology": "v1",
+    "state": "proposed",
+    "entities": [
+      {
+        "id": "org",
+        "label": "organization",
+        "segments": [
+          [
+            0,
+            11
+          ]
+        ],
+        "surface": "星湖研究院电池试验中心"
+      },
+      {
+        "id": "dept",
+        "label": "department",
+        "segments": [
+          [
+            5,
+            11
+          ]
+        ],
+        "surface": "电池试验中心"
+      },
+      {
+        "id": "part",
+        "label": "component",
+        "segments": [
+          [
+            15,
+            20
+          ]
+        ],
+        "surface": "低压泵轴承"
+      },
+      {
+        "id": "stand",
+        "label": "component",
+        "segments": [
+          [
+            5,
+            7
+          ],
+          [
+            27,
+            30
+          ]
+        ],
+        "surface": "电池…测试台"
+      }
+    ],
+    "relations": [
+      {
+        "source": "org",
+        "target": "part",
+        "label": "examines"
+      }
+    ]
+  },
+  {
+    "id": "manual-06-r2-a",
+    "document_id": "manual-06-r2",
+    "annotator": "林",
+    "ontology": "v1",
+    "state": "proposed",
+    "entities": [
+      {
+        "id": "org",
+        "label": "organization",
+        "segments": [
+          [
+            0,
+            11
+          ]
+        ],
+        "surface": "星湖研究院电池试验中心"
+      },
+      {
+        "id": "dept",
+        "label": "department",
+        "segments": [
+          [
+            5,
+            11
+          ]
+        ],
+        "surface": "电池试验中心"
+      },
+      {
+        "id": "part",
+        "label": "component",
+        "segments": [
+          [
+            15,
+            20
+          ]
+        ],
+        "surface": "低压泵轴承"
+      },
+      {
+        "id": "bearing",
+        "label": "component",
+        "segments": [
+          [
+            18,
+            20
+          ]
+        ],
+        "surface": "轴承"
+      }
+    ],
+    "relations": [
+      {
+        "source": "dept",
+        "target": "part",
+        "label": "examines"
+      }
+    ]
+  },
+  {
+    "id": "manual-06-r2-b",
+    "document_id": "manual-06-r2",
+    "annotator": "陈",
+    "ontology": "v1",
+    "state": "proposed",
+    "entities": [
+      {
+        "id": "org",
+        "label": "organization",
+        "segments": [
+          [
+            0,
+            11
+          ]
+        ],
+        "surface": "星湖研究院电池试验中心"
+      },
+      {
+        "id": "dept",
+        "label": "department",
+        "segments": [
+          [
+            5,
+            11
+          ]
+        ],
+        "surface": "电池试验中心"
+      },
+      {
+        "id": "part",
+        "label": "component",
+        "segments": [
+          [
+            15,
+            20
+          ]
+        ],
+        "surface": "低压泵轴承"
+      }
+    ],
+    "relations": [
+      {
+        "source": "org",
+        "target": "part",
+        "label": "examines"
+      }
+    ]
+  },
+  {
+    "id": "manual-07-r1-a",
+    "document_id": "manual-07-r1",
+    "annotator": "林",
+    "ontology": "v1",
+    "state": "proposed",
+    "entities": [
+      {
+        "id": "org",
+        "label": "organization",
+        "segments": [
+          [
+            0,
+            11
+          ]
+        ],
+        "surface": "松岭研究院电池试验中心"
+      },
+      {
+        "id": "dept",
+        "label": "department",
+        "segments": [
+          [
+            5,
+            11
+          ]
+        ],
+        "surface": "电池试验中心"
+      },
+      {
+        "id": "part",
+        "label": "component",
+        "segments": [
+          [
+            15,
+            20
+          ]
+        ],
+        "surface": "低压泵轴承"
+      },
+      {
+        "id": "bearing",
+        "label": "component",
+        "segments": [
+          [
+            18,
+            20
+          ]
+        ],
+        "surface": "轴承"
+      },
+      {
+        "id": "stand",
+        "label": "component",
+        "segments": [
+          [
+            5,
+            7
+          ],
+          [
+            27,
+            30
+          ]
+        ],
+        "surface": "电池…测试台"
+      }
+    ],
+    "relations": [
+      {
+        "source": "dept",
+        "target": "part",
+        "label": "examines"
+      }
+    ]
+  },
+  {
+    "id": "manual-07-r1-b",
+    "document_id": "manual-07-r1",
+    "annotator": "陈",
+    "ontology": "v1",
+    "state": "proposed",
+    "entities": [
+      {
+        "id": "org",
+        "label": "organization",
+        "segments": [
+          [
+            0,
+            11
+          ]
+        ],
+        "surface": "松岭研究院电池试验中心"
+      },
+      {
+        "id": "dept",
+        "label": "department",
+        "segments": [
+          [
+            5,
+            11
+          ]
+        ],
+        "surface": "电池试验中心"
+      },
+      {
+        "id": "part",
+        "label": "component",
+        "segments": [
+          [
+            15,
+            20
+          ]
+        ],
+        "surface": "低压泵轴承"
+      },
+      {
+        "id": "stand",
+        "label": "component",
+        "segments": [
+          [
+            5,
+            7
+          ],
+          [
+            27,
+            30
+          ]
+        ],
+        "surface": "电池…测试台"
+      }
+    ],
+    "relations": [
+      {
+        "source": "org",
+        "target": "part",
+        "label": "examines"
+      }
+    ]
+  },
+  {
+    "id": "manual-07-r2-a",
+    "document_id": "manual-07-r2",
+    "annotator": "林",
+    "ontology": "v1",
+    "state": "proposed",
+    "entities": [
+      {
+        "id": "org",
+        "label": "organization",
+        "segments": [
+          [
+            0,
+            11
+          ]
+        ],
+        "surface": "松岭研究院电池试验中心"
+      },
+      {
+        "id": "dept",
+        "label": "department",
+        "segments": [
+          [
+            5,
+            11
+          ]
+        ],
+        "surface": "电池试验中心"
+      },
+      {
+        "id": "part",
+        "label": "component",
+        "segments": [
+          [
+            15,
+            20
+          ]
+        ],
+        "surface": "低压泵轴承"
+      },
+      {
+        "id": "bearing",
+        "label": "component",
+        "segments": [
+          [
+            18,
+            20
+          ]
+        ],
+        "surface": "轴承"
+      }
+    ],
+    "relations": [
+      {
+        "source": "dept",
+        "target": "part",
+        "label": "examines"
+      }
+    ]
+  },
+  {
+    "id": "manual-07-r2-b",
+    "document_id": "manual-07-r2",
+    "annotator": "陈",
+    "ontology": "v1",
+    "state": "proposed",
+    "entities": [
+      {
+        "id": "org",
+        "label": "organization",
+        "segments": [
+          [
+            0,
+            11
+          ]
+        ],
+        "surface": "松岭研究院电池试验中心"
+      },
+      {
+        "id": "dept",
+        "label": "department",
+        "segments": [
+          [
+            5,
+            11
+          ]
+        ],
+        "surface": "电池试验中心"
+      },
+      {
+        "id": "part",
+        "label": "component",
+        "segments": [
+          [
+            15,
+            20
+          ]
+        ],
+        "surface": "低压泵轴承"
+      }
+    ],
+    "relations": [
+      {
+        "source": "org",
+        "target": "part",
+        "label": "examines"
+      }
+    ]
+  },
+  {
+    "id": "manual-08-r1-a",
+    "document_id": "manual-08-r1",
+    "annotator": "林",
+    "ontology": "v1",
+    "state": "proposed",
+    "entities": [
+      {
+        "id": "org",
+        "label": "organization",
+        "segments": [
+          [
+            0,
+            11
+          ]
+        ],
+        "surface": "新湾研究院电池试验中心"
+      },
+      {
+        "id": "dept",
+        "label": "department",
+        "segments": [
+          [
+            5,
+            11
+          ]
+        ],
+        "surface": "电池试验中心"
+      },
+      {
+        "id": "part",
+        "label": "component",
+        "segments": [
+          [
+            15,
+            20
+          ]
+        ],
+        "surface": "低压泵轴承"
+      },
+      {
+        "id": "bearing",
+        "label": "component",
+        "segments": [
+          [
+            18,
+            20
+          ]
+        ],
+        "surface": "轴承"
+      },
+      {
+        "id": "stand",
+        "label": "component",
+        "segments": [
+          [
+            5,
+            7
+          ],
+          [
+            27,
+            30
+          ]
+        ],
+        "surface": "电池…测试台"
+      }
+    ],
+    "relations": [
+      {
+        "source": "dept",
+        "target": "part",
+        "label": "examines"
+      }
+    ]
+  },
+  {
+    "id": "manual-08-r1-b",
+    "document_id": "manual-08-r1",
+    "annotator": "陈",
+    "ontology": "v1",
+    "state": "proposed",
+    "entities": [
+      {
+        "id": "org",
+        "label": "organization",
+        "segments": [
+          [
+            0,
+            11
+          ]
+        ],
+        "surface": "新湾研究院电池试验中心"
+      },
+      {
+        "id": "dept",
+        "label": "department",
+        "segments": [
+          [
+            5,
+            11
+          ]
+        ],
+        "surface": "电池试验中心"
+      },
+      {
+        "id": "part",
+        "label": "component",
+        "segments": [
+          [
+            15,
+            20
+          ]
+        ],
+        "surface": "低压泵轴承"
+      },
+      {
+        "id": "stand",
+        "label": "component",
+        "segments": [
+          [
+            5,
+            7
+          ],
+          [
+            27,
+            30
+          ]
+        ],
+        "surface": "电池…测试台"
+      }
+    ],
+    "relations": [
+      {
+        "source": "org",
+        "target": "part",
+        "label": "examines"
+      }
+    ]
+  },
+  {
+    "id": "manual-08-r2-a",
+    "document_id": "manual-08-r2",
+    "annotator": "林",
+    "ontology": "v1",
+    "state": "proposed",
+    "entities": [
+      {
+        "id": "org",
+        "label": "organization",
+        "segments": [
+          [
+            0,
+            11
+          ]
+        ],
+        "surface": "新湾研究院电池试验中心"
+      },
+      {
+        "id": "dept",
+        "label": "department",
+        "segments": [
+          [
+            5,
+            11
+          ]
+        ],
+        "surface": "电池试验中心"
+      },
+      {
+        "id": "part",
+        "label": "component",
+        "segments": [
+          [
+            15,
+            20
+          ]
+        ],
+        "surface": "低压泵轴承"
+      },
+      {
+        "id": "bearing",
+        "label": "component",
+        "segments": [
+          [
+            18,
+            20
+          ]
+        ],
+        "surface": "轴承"
+      }
+    ],
+    "relations": [
+      {
+        "source": "dept",
+        "target": "part",
+        "label": "examines"
+      }
+    ]
+  },
+  {
+    "id": "manual-08-r2-b",
+    "document_id": "manual-08-r2",
+    "annotator": "陈",
+    "ontology": "v1",
+    "state": "proposed",
+    "entities": [
+      {
+        "id": "org",
+        "label": "organization",
+        "segments": [
+          [
+            0,
+            11
+          ]
+        ],
+        "surface": "新湾研究院电池试验中心"
+      },
+      {
+        "id": "dept",
+        "label": "department",
+        "segments": [
+          [
+            5,
+            11
+          ]
+        ],
+        "surface": "电池试验中心"
+      },
+      {
+        "id": "part",
+        "label": "component",
+        "segments": [
+          [
+            15,
+            20
+          ]
+        ],
+        "surface": "低压泵轴承"
+      }
+    ],
+    "relations": [
+      {
+        "source": "org",
+        "target": "part",
+        "label": "examines"
+      }
+    ]
+  },
+  {
+    "id": "manual-09-r1-a",
+    "document_id": "manual-09-r1",
+    "annotator": "林",
+    "ontology": "v1",
+    "state": "proposed",
+    "entities": [
+      {
+        "id": "org",
+        "label": "organization",
+        "segments": [
+          [
+            0,
+            11
+          ]
+        ],
+        "surface": "玉溪研究院电池试验中心"
+      },
+      {
+        "id": "dept",
+        "label": "department",
+        "segments": [
+          [
+            5,
+            11
+          ]
+        ],
+        "surface": "电池试验中心"
+      },
+      {
+        "id": "part",
+        "label": "component",
+        "segments": [
+          [
+            15,
+            20
+          ]
+        ],
+        "surface": "低压泵轴承"
+      },
+      {
+        "id": "bearing",
+        "label": "component",
+        "segments": [
+          [
+            18,
+            20
+          ]
+        ],
+        "surface": "轴承"
+      },
+      {
+        "id": "stand",
+        "label": "component",
+        "segments": [
+          [
+            5,
+            7
+          ],
+          [
+            27,
+            30
+          ]
+        ],
+        "surface": "电池…测试台"
+      }
+    ],
+    "relations": [
+      {
+        "source": "dept",
+        "target": "part",
+        "label": "examines"
+      }
+    ]
+  },
+  {
+    "id": "manual-09-r1-b",
+    "document_id": "manual-09-r1",
+    "annotator": "陈",
+    "ontology": "v1",
+    "state": "proposed",
+    "entities": [
+      {
+        "id": "org",
+        "label": "organization",
+        "segments": [
+          [
+            0,
+            11
+          ]
+        ],
+        "surface": "玉溪研究院电池试验中心"
+      },
+      {
+        "id": "dept",
+        "label": "department",
+        "segments": [
+          [
+            5,
+            11
+          ]
+        ],
+        "surface": "电池试验中心"
+      },
+      {
+        "id": "part",
+        "label": "component",
+        "segments": [
+          [
+            15,
+            20
+          ]
+        ],
+        "surface": "低压泵轴承"
+      },
+      {
+        "id": "stand",
+        "label": "component",
+        "segments": [
+          [
+            5,
+            7
+          ],
+          [
+            27,
+            30
+          ]
+        ],
+        "surface": "电池…测试台"
+      }
+    ],
+    "relations": [
+      {
+        "source": "org",
+        "target": "part",
+        "label": "examines"
+      }
+    ]
+  },
+  {
+    "id": "manual-09-r2-a",
+    "document_id": "manual-09-r2",
+    "annotator": "林",
+    "ontology": "v1",
+    "state": "proposed",
+    "entities": [
+      {
+        "id": "org",
+        "label": "organization",
+        "segments": [
+          [
+            0,
+            11
+          ]
+        ],
+        "surface": "玉溪研究院电池试验中心"
+      },
+      {
+        "id": "dept",
+        "label": "department",
+        "segments": [
+          [
+            5,
+            11
+          ]
+        ],
+        "surface": "电池试验中心"
+      },
+      {
+        "id": "part",
+        "label": "component",
+        "segments": [
+          [
+            15,
+            20
+          ]
+        ],
+        "surface": "低压泵轴承"
+      },
+      {
+        "id": "bearing",
+        "label": "component",
+        "segments": [
+          [
+            18,
+            20
+          ]
+        ],
+        "surface": "轴承"
+      }
+    ],
+    "relations": [
+      {
+        "source": "dept",
+        "target": "part",
+        "label": "examines"
+      }
+    ]
+  },
+  {
+    "id": "manual-09-r2-b",
+    "document_id": "manual-09-r2",
+    "annotator": "陈",
+    "ontology": "v1",
+    "state": "proposed",
+    "entities": [
+      {
+        "id": "org",
+        "label": "organization",
+        "segments": [
+          [
+            0,
+            11
+          ]
+        ],
+        "surface": "玉溪研究院电池试验中心"
+      },
+      {
+        "id": "dept",
+        "label": "department",
+        "segments": [
+          [
+            5,
+            11
+          ]
+        ],
+        "surface": "电池试验中心"
+      },
+      {
+        "id": "part",
+        "label": "component",
+        "segments": [
+          [
+            15,
+            20
+          ]
+        ],
+        "surface": "低压泵轴承"
+      }
+    ],
+    "relations": [
+      {
+        "source": "org",
+        "target": "part",
+        "label": "examines"
+      }
+    ]
+  },
+  {
+    "id": "manual-10-r1-a",
+    "document_id": "manual-10-r1",
+    "annotator": "林",
+    "ontology": "v1",
+    "state": "proposed",
+    "entities": [
+      {
+        "id": "org",
+        "label": "organization",
+        "segments": [
+          [
+            0,
+            11
+          ]
+        ],
+        "surface": "平原研究院电池试验中心"
+      },
+      {
+        "id": "dept",
+        "label": "department",
+        "segments": [
+          [
+            5,
+            11
+          ]
+        ],
+        "surface": "电池试验中心"
+      },
+      {
+        "id": "part",
+        "label": "component",
+        "segments": [
+          [
+            15,
+            20
+          ]
+        ],
+        "surface": "低压泵轴承"
+      },
+      {
+        "id": "bearing",
+        "label": "component",
+        "segments": [
+          [
+            18,
+            20
+          ]
+        ],
+        "surface": "轴承"
+      },
+      {
+        "id": "stand",
+        "label": "component",
+        "segments": [
+          [
+            5,
+            7
+          ],
+          [
+            27,
+            30
+          ]
+        ],
+        "surface": "电池…测试台"
+      }
+    ],
+    "relations": [
+      {
+        "source": "dept",
+        "target": "part",
+        "label": "examines"
+      }
+    ]
+  },
+  {
+    "id": "manual-10-r1-b",
+    "document_id": "manual-10-r1",
+    "annotator": "陈",
+    "ontology": "v1",
+    "state": "proposed",
+    "entities": [
+      {
+        "id": "org",
+        "label": "organization",
+        "segments": [
+          [
+            0,
+            11
+          ]
+        ],
+        "surface": "平原研究院电池试验中心"
+      },
+      {
+        "id": "dept",
+        "label": "department",
+        "segments": [
+          [
+            5,
+            11
+          ]
+        ],
+        "surface": "电池试验中心"
+      },
+      {
+        "id": "part",
+        "label": "component",
+        "segments": [
+          [
+            15,
+            20
+          ]
+        ],
+        "surface": "低压泵轴承"
+      },
+      {
+        "id": "stand",
+        "label": "component",
+        "segments": [
+          [
+            5,
+            7
+          ],
+          [
+            27,
+            30
+          ]
+        ],
+        "surface": "电池…测试台"
+      }
+    ],
+    "relations": [
+      {
+        "source": "org",
+        "target": "part",
+        "label": "examines"
+      }
+    ]
+  },
+  {
+    "id": "manual-10-r2-a",
+    "document_id": "manual-10-r2",
+    "annotator": "林",
+    "ontology": "v1",
+    "state": "proposed",
+    "entities": [
+      {
+        "id": "org",
+        "label": "organization",
+        "segments": [
+          [
+            0,
+            11
+          ]
+        ],
+        "surface": "平原研究院电池试验中心"
+      },
+      {
+        "id": "dept",
+        "label": "department",
+        "segments": [
+          [
+            5,
+            11
+          ]
+        ],
+        "surface": "电池试验中心"
+      },
+      {
+        "id": "part",
+        "label": "component",
+        "segments": [
+          [
+            15,
+            20
+          ]
+        ],
+        "surface": "低压泵轴承"
+      },
+      {
+        "id": "bearing",
+        "label": "component",
+        "segments": [
+          [
+            18,
+            20
+          ]
+        ],
+        "surface": "轴承"
+      }
+    ],
+    "relations": [
+      {
+        "source": "dept",
+        "target": "part",
+        "label": "examines"
+      }
+    ]
+  },
+  {
+    "id": "manual-10-r2-b",
+    "document_id": "manual-10-r2",
+    "annotator": "陈",
+    "ontology": "v1",
+    "state": "proposed",
+    "entities": [
+      {
+        "id": "org",
+        "label": "organization",
+        "segments": [
+          [
+            0,
+            11
+          ]
+        ],
+        "surface": "平原研究院电池试验中心"
+      },
+      {
+        "id": "dept",
+        "label": "department",
+        "segments": [
+          [
+            5,
+            11
+          ]
+        ],
+        "surface": "电池试验中心"
+      },
+      {
+        "id": "part",
+        "label": "component",
+        "segments": [
+          [
+            15,
+            20
+          ]
+        ],
+        "surface": "低压泵轴承"
+      }
+    ],
+    "relations": [
+      {
+        "source": "org",
+        "target": "part",
+        "label": "examines"
+      }
+    ]
+  },
+  {
+    "id": "manual-11-r1-a",
+    "document_id": "manual-11-r1",
+    "annotator": "林",
+    "ontology": "v1",
+    "state": "proposed",
+    "entities": [
+      {
+        "id": "org",
+        "label": "organization",
+        "segments": [
+          [
+            0,
+            11
+          ]
+        ],
+        "surface": "石桥研究院电池试验中心"
+      },
+      {
+        "id": "dept",
+        "label": "department",
+        "segments": [
+          [
+            5,
+            11
+          ]
+        ],
+        "surface": "电池试验中心"
+      },
+      {
+        "id": "part",
+        "label": "component",
+        "segments": [
+          [
+            15,
+            20
+          ]
+        ],
+        "surface": "低压泵轴承"
+      },
+      {
+        "id": "bearing",
+        "label": "component",
+        "segments": [
+          [
+            18,
+            20
+          ]
+        ],
+        "surface": "轴承"
+      },
+      {
+        "id": "stand",
+        "label": "component",
+        "segments": [
+          [
+            5,
+            7
+          ],
+          [
+            27,
+            30
+          ]
+        ],
+        "surface": "电池…测试台"
+      }
+    ],
+    "relations": [
+      {
+        "source": "dept",
+        "target": "part",
+        "label": "examines"
+      }
+    ]
+  },
+  {
+    "id": "manual-11-r1-b",
+    "document_id": "manual-11-r1",
+    "annotator": "陈",
+    "ontology": "v1",
+    "state": "proposed",
+    "entities": [
+      {
+        "id": "org",
+        "label": "organization",
+        "segments": [
+          [
+            0,
+            11
+          ]
+        ],
+        "surface": "石桥研究院电池试验中心"
+      },
+      {
+        "id": "dept",
+        "label": "department",
+        "segments": [
+          [
+            5,
+            11
+          ]
+        ],
+        "surface": "电池试验中心"
+      },
+      {
+        "id": "part",
+        "label": "component",
+        "segments": [
+          [
+            15,
+            20
+          ]
+        ],
+        "surface": "低压泵轴承"
+      },
+      {
+        "id": "stand",
+        "label": "component",
+        "segments": [
+          [
+            5,
+            7
+          ],
+          [
+            27,
+            30
+          ]
+        ],
+        "surface": "电池…测试台"
+      }
+    ],
+    "relations": [
+      {
+        "source": "org",
+        "target": "part",
+        "label": "examines"
+      }
+    ]
+  },
+  {
+    "id": "manual-11-r2-a",
+    "document_id": "manual-11-r2",
+    "annotator": "林",
+    "ontology": "v1",
+    "state": "proposed",
+    "entities": [
+      {
+        "id": "org",
+        "label": "organization",
+        "segments": [
+          [
+            0,
+            11
+          ]
+        ],
+        "surface": "石桥研究院电池试验中心"
+      },
+      {
+        "id": "dept",
+        "label": "department",
+        "segments": [
+          [
+            5,
+            11
+          ]
+        ],
+        "surface": "电池试验中心"
+      },
+      {
+        "id": "part",
+        "label": "component",
+        "segments": [
+          [
+            15,
+            20
+          ]
+        ],
+        "surface": "低压泵轴承"
+      },
+      {
+        "id": "bearing",
+        "label": "component",
+        "segments": [
+          [
+            18,
+            20
+          ]
+        ],
+        "surface": "轴承"
+      }
+    ],
+    "relations": [
+      {
+        "source": "dept",
+        "target": "part",
+        "label": "examines"
+      }
+    ]
+  },
+  {
+    "id": "manual-11-r2-b",
+    "document_id": "manual-11-r2",
+    "annotator": "陈",
+    "ontology": "v1",
+    "state": "proposed",
+    "entities": [
+      {
+        "id": "org",
+        "label": "organization",
+        "segments": [
+          [
+            0,
+            11
+          ]
+        ],
+        "surface": "石桥研究院电池试验中心"
+      },
+      {
+        "id": "dept",
+        "label": "department",
+        "segments": [
+          [
+            5,
+            11
+          ]
+        ],
+        "surface": "电池试验中心"
+      },
+      {
+        "id": "part",
+        "label": "component",
+        "segments": [
+          [
+            15,
+            20
+          ]
+        ],
+        "surface": "低压泵轴承"
+      }
+    ],
+    "relations": [
+      {
+        "source": "org",
+        "target": "part",
+        "label": "examines"
+      }
+    ]
+  }
+]

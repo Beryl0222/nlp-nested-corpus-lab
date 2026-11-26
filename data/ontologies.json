@@ -1,0 +1,32 @@
+[
+  {
+    "id": "v1",
+    "types": {
+      "organization": "组织全名",
+      "department": "组织内部单位",
+      "component": "部件"
+    },
+    "relations": {
+      "examines": [
+        "department|organization",
+        "component"
+      ]
+    }
+  },
+  {
+    "id": "v2",
+    "types": {
+      "organization": "法人机构",
+      "department": "机构内部单位",
+      "replaceable": "可以独立更换的部件",
+      "integrated": "不能独立更换的部件"
+    },
+    "relations": {
+      "examines": [
+        "department|organization",
+        "replaceable|integrated"
+      ]
+    },
+    "notes": "部件可更换性只依据文本明确说明，未写明时不能推定。"
+  }
+]

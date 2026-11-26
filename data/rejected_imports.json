@@ -1,0 +1,20 @@
+[
+  {
+    "id": "broken-offset",
+    "document_id": "manual-00-r1",
+    "entities": [
+      {
+        "id": "e",
+        "label": "component",
+        "segments": [
+          [
+            999,
+            1000
+          ]
+        ],
+        "surface": "轴"
+      }
+    ],
+    "purpose": "无法定位的来稿，需显示具体问题而保留其他意见"
+  }
+]
